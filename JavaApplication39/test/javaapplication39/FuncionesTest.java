@@ -25,6 +25,7 @@ public class FuncionesTest {
         assertEquals("1.0", Funciones.dividir(1, 1));
         assertEquals("Error", Funciones.dividir(0, 0));
         assertEquals("Error", Funciones.dividir(1, 0));
+
         // TODO review the generated test code and remove the default call to fail.
     
     }
